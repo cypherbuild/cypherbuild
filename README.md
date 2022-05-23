@@ -1,3 +1,13 @@
-Hello,
+## Email
+[cypher.build@protonmail.com](mailto:cypher.build@protonmail.com)
 
-Please feel free to contact me for consulting.
+## Services
+- Blockchain Development
+  - DApp Planning & Development
+  - Tokenization Planning & Development
+  - DAO Planning & Development
+- Cloud Computing Configuration
+  - AWS
+  - Azure
+  - GCS
+  - Linode
